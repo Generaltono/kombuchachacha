@@ -1,0 +1,12 @@
+Farby:
+F1DF1F
+FDE9EE
+DFC9FF
+FF9955
+D45500
+FF6600
+
+fonty:
+Helvetica Light
+Helvetica regular
+Helvetica Bold
