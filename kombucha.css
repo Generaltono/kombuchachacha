@@ -8,3 +8,41 @@
   --tmavapozadie: #221F20;
   
 }
+body { background-color: var(--svetlofial); }
+div {
+  font-family: Helvetica;
+  height: 500px;
+  width: 50px;
+  background-color: red;
+  color: 000; 
+  rotate: 90deg;
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+
+
+#rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+
+body
+{
+margin-left: 50px
+}
+
+
+div {
+  color: var(--mborange);
+  background-color: var(--bielooranzova);
+  padding: 15px;
+}
